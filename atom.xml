@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SlientStorm&#39;s Blog</title>
   
-  <subtitle>SlientStorm subtitle</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://slientstorm.github.io/"/>
